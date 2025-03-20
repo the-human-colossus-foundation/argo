@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1",
+        "title": "Ecosystem B",
+        "location": "Warszawa",
+        "status": "active",
+        "latitude": 52.2297700,
+        "longitude": 21.0117800,
+        "oobi": "{\"eid\":\"BHWrSsQbbvT2pTz-Qyy4W9ecVVhK7JVJ4FCxVrKBUK1w\",\"scheme\":\"http\",\"url\":\"http://wa1.eb.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem B",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "id": "2",
+        "title": "Ecosystem A",
+        "location": "Kraków",
+        "status": "active",
+        "latitude": 50.0614300,
+        "longitude": 19.9365800,
+        "oobi": "{\"eid\":\"BHQ0eV0aQB0CTuviYa61Yiy5V9kpE_k1YUNkn8BnHTfD\",\"scheme\":\"http\",\"url\":\"http://wa1.ea.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem A",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "id": "3",
+        "title": "HCF Ecosystem",
+        "location": "Basel",
+        "status": "active",
+        "latitude": 47.5583950,
+        "longitude": 7.5732710,
+        "oobi": "{\"eid\":\"BF2t2NPc1bwptY1hYV0YCib1JjQ11k9jtuaZemecPF5b\",\"scheme\":\"http\",\"url\":\"http://wa1.hcf.argo.colossi.network/\"}",
+        "governance": "Human Colossus Foundation",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "id": "4",
+        "title": "HCF Ecosystem",
+        "location": "Geneva",
+        "status": "active",
+        "latitude": 46.2043910,
+        "longitude": 6.1431580,
+        "oobi": "{\"eid\":\"BKwbvGvCkN7H6aBT0PrPXj2gDN80uvcgwN129XVgwmHD\",\"scheme\":\"http\",\"url\":\"http://wa2.hcf.argo.colossi.network/\"}",
+        "governance": "Human Colossus Foundation",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "id": "5",
+        "title": "HCF Ecosystem",
+        "location": "Zurich",
+        "status": "active",
+        "latitude": 47.3666700,
+        "longitude": 8.5500000,
+        "oobi": "{\"eid\":\"BHPPsg1-RAPXmtlAFnJGmax2AP6QBlERMti7dzBGq34q\",\"scheme\":\"http\",\"url\":\"http://wa3.hcf.argo.colossi.network/\"}",
+        "governance": "Human Colossus Foundation",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "id": "6",
+        "title": "HCF Ecosystem",
+        "location": "Lausanne",
+        "status": "active",
+        "latitude": 46.311200,
+        "longitude": 6.380000,
+        "oobi": "{\"eid\":\"BIHHu55IZqn3SCax1DK0bygytF5J6AEWYNcITdbqpaLa\",\"scheme\":\"http\",\"url\":\"http://wa4.hcf.argo.colossi.network/\"}",
+        "governance": "Human Colossus Foundation",
+        "governance_url": "https://dkms.colossi.network"
+    }
+]
+

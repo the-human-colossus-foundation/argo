@@ -1,0 +1,75 @@
+[
+    {
+        "location": "Warszawa",
+        "status": "active",
+        "latitude": 52.2297700,
+        "longitude": 21.0117800,
+        "oobi": "{\"eid\":\"BNJJhjUnhlw-lsbYdehzLsX1hJMG9QJlK_wJ5AunJLrM\",\"scheme\":\"http\",\"url\":\"http://w1.ea.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem B",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Montreal",
+        "status": "active",
+        "latitude": 45.5088400,
+        "longitude": -73.5878100,
+        "oobi": "{\"eid\":\"BFdfJEbC7__AqZdrXkxmW3THnZmIeJzCGpzJpgN6Ettw\",\"scheme\":\"http\",\"url\":\"http://w2.ea.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem B",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Tokyo",
+        "status": "active",
+        "latitude": 35.6895000,
+        "longitude": 139.6917100,
+        "oobi": "{\"eid\":\"BBnKqn2acTTae0A9FYThS9STLvIRfCvOFa35cixZuqk2\",\"scheme\":\"http\",\"url\":\"http://w3.ea.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem B",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Wrocław",
+        "status": "active",
+        "latitude": 51.1070300,
+        "longitude": 17.0386900,
+        "oobi": "{\"eid\":\"BALatHR3OQVuj9X16D5tV8Eqokp4OSN6dsyids1VjLDr\",\"scheme\":\"http\",\"url\":\"http://w1.eb.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem A",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Berlin",
+        "status": "active",
+        "latitude": 52.5243700,
+        "longitude": 13.4105300,
+        "oobi": "{\"eid\":\"BOifA2fm2256Ea1oF3gkJc-vFsaS-sv2Z52OtCnvliaM\",\"scheme\":\"http\",\"url\":\"http://w2.eb.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem A",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Barcelona",
+        "status": "active",
+        "latitude": 41.3887900,
+        "longitude": 2.1589900,
+        "oobi": "{\"eid\":\"BBnKqn2acTTae0A9FYThS9STLvIRfCvOFa35cixZuqk2\",\"scheme\":\"http\",\"url\":\"http://w3.ea.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem A",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Rome",
+        "status": "active",
+        "latitude": 41.8919300,
+        "longitude": 12.5113300,
+        "oobi": "{\"eid\":\"BNLTg2w8kaM0A_EHtzRbc0jxD3cWhQQH4kfWw7a008Ph\",\"scheme\":\"http\",\"url\":\"http://w4.ea.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem A",
+        "governance_url": "https://dkms.colossi.network"
+    },
+    {
+        "location": "Moscow",
+        "status": "active",
+        "latitude": 55.7522200,
+        "longitude": 37.6155600,
+        "oobi": "{\"eid\":\"BPzPdjkkL9jd8ibixEJzt-MkCCmPQpupHN_zxEHNcAhc\",\"scheme\":\"http\",\"url\":\"http://w4.eb.argo.colossi.network/\"}",
+        "governance": "HCF - Ecosystem A",
+        "governance_url": "https://dkms.colossi.network"
+    }
+]
+
