@@ -1,0 +1,13 @@
+
+[
+    {
+        "location": "Geneva",
+        "status": "active",
+        "latitude": 46.2043910,
+        "longitude": 6.1431580,
+        "oobi": "{\"eid\":\"EOUaJAof4ltD0xnV9zZQ1U_Mn_1vK2N7NyVeoFMV81E1\",\"scheme\":\"http\",\"url\":\"http://repository.oca.colossi.network/\"}",
+        "governance": "Human Colossus Foundation",
+        "governance_url": "https://oca.colossi.network",
+        "created_at": "2023-09-01T12:00:00Z"
+    }
+]
