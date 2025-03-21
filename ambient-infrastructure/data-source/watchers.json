@@ -8,7 +8,8 @@
         "longitude": 21.0117800,
         "oobi": "{\"eid\":\"BHWrSsQbbvT2pTz-Qyy4W9ecVVhK7JVJ4FCxVrKBUK1w\",\"scheme\":\"http\",\"url\":\"http://wa1.eb.argo.colossi.network/\"}",
         "governance": "HCF - Ecosystem B",
-        "governance_url": "https://dkms.colossi.network"
+        "governance_url": "https://dkms.colossi.network",
+        "created_at": "2025-02-01T12:00:00Z"
     },
     {
         "id": "2",
@@ -19,7 +20,8 @@
         "longitude": 19.9365800,
         "oobi": "{\"eid\":\"BHQ0eV0aQB0CTuviYa61Yiy5V9kpE_k1YUNkn8BnHTfD\",\"scheme\":\"http\",\"url\":\"http://wa1.ea.argo.colossi.network/\"}",
         "governance": "HCF - Ecosystem A",
-        "governance_url": "https://dkms.colossi.network"
+        "governance_url": "https://dkms.colossi.network",
+        "created_at": "2025-02-01T12:00:00Z"
     },
     {
         "id": "3",
@@ -30,7 +32,8 @@
         "longitude": 7.5732710,
         "oobi": "{\"eid\":\"BF2t2NPc1bwptY1hYV0YCib1JjQ11k9jtuaZemecPF5b\",\"scheme\":\"http\",\"url\":\"http://wa1.hcf.argo.colossi.network/\"}",
         "governance": "Human Colossus Foundation",
-        "governance_url": "https://dkms.colossi.network"
+        "governance_url": "https://dkms.colossi.network",
+        "created_at": "2024-10-01T12:00:00Z"
     },
     {
         "id": "4",
@@ -41,7 +44,8 @@
         "longitude": 6.1431580,
         "oobi": "{\"eid\":\"BKwbvGvCkN7H6aBT0PrPXj2gDN80uvcgwN129XVgwmHD\",\"scheme\":\"http\",\"url\":\"http://wa2.hcf.argo.colossi.network/\"}",
         "governance": "Human Colossus Foundation",
-        "governance_url": "https://dkms.colossi.network"
+        "governance_url": "https://dkms.colossi.network",
+        "created_at": "2024-10-01T12:00:00Z"
     },
     {
         "id": "5",
@@ -52,7 +56,8 @@
         "longitude": 8.5500000,
         "oobi": "{\"eid\":\"BHPPsg1-RAPXmtlAFnJGmax2AP6QBlERMti7dzBGq34q\",\"scheme\":\"http\",\"url\":\"http://wa3.hcf.argo.colossi.network/\"}",
         "governance": "Human Colossus Foundation",
-        "governance_url": "https://dkms.colossi.network"
+        "governance_url": "https://dkms.colossi.network",
+        "created_at": "2024-10-01T12:00:00Z"
     },
     {
         "id": "6",
@@ -63,7 +68,8 @@
         "longitude": 6.6328200,
         "oobi": "{\"eid\":\"BIHHu55IZqn3SCax1DK0bygytF5J6AEWYNcITdbqpaLa\",\"scheme\":\"http\",\"url\":\"http://wa4.hcf.argo.colossi.network/\"}",
         "governance": "Human Colossus Foundation",
-        "governance_url": "https://dkms.colossi.network"
+        "governance_url": "https://dkms.colossi.network",
+        "created_at": "2024-10-01T12:00:00Z"
     }
 ]
 
